@@ -8,8 +8,56 @@ ncolor 0,0,255
 
 track Espl
 bigDataUrl https://raw.githubusercontent.com/cainbn97/Notch_mapping/main/esp1.bb
-shortLabel Esp1
-longLabel Esp1
+shortLabel Espl
+longLabel Espl
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track Grh_ChIP 2-3 Hours
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/Notch-Mapping/main/2-3hr_GRH_peaks.bb
+shortLabel Grh_ChIP 2-3 Hours
+longLabel Grh_ChIP 2-3 Hours
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track Grh_ChIP 5-6 Hours
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/Notch-Mapping/main/5-6hr_GRH_peaks.bb
+shortLabel Grh_ChIP 5-6 Hours
+longLabel Grh_ChIP 5-6 Hours
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track Grh_ChIP 11-12 Hours
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/Notch-Mapping/main/11-12hr_GRH_peaks.bb
+shortLabel Grh_ChIP 11-12 Hours
+longLabel Grh_ChIP 11-12 Hours
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track Grh_ChIP 15-16 Hours
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/Notch-Mapping/main/15-16hr_GRH_peaks.bb
+shortLabel Grh_ChIP 15-16 Hours
+longLabel Grh_ChIP 15-16 Hours
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track Grh_ChIP Wing Disc
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/Notch-Mapping/main/Wingdisc_GRH_peaks.bb
+shortLabel Grh_ChIP Wing Disc
+longLabel Grh_ChIP Wing Disc
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track Zelda Faireseq
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/Notch-Mapping/main/GSM1607379_zld_FAIRE_POOLED_MACS2_peaks.bb
+shortLabel Zelda Faireseq
+longLabel Zelda Faireseq
 type bigBed
 nvisibility squish
 ncolor 0,0,255
